@@ -15,6 +15,7 @@ A simple application on inventory time series data prediction of LSTM model，th
 
 ## 数据格式示例 Data Styles Examples
 本次预测模型所代码里所用数据样式均为纯数字如下
+
 The data styles used in the code of this prediction model are pure numbers as follows:
 <center>
 
